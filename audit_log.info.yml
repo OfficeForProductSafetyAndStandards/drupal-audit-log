@@ -5,4 +5,3 @@ description: 'Provides a framework with swappable storage for logging entity aud
 package: 'Audit Log'
 core: 8.x
 core_version_requirement: ^8.8 || ^9
-
