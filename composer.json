@@ -1,0 +1,13 @@
+{
+    "name": "drupal/audit_log",
+    "description": "Provides a framework with swappable storage for logging entity audit events.",
+    "type": "drupal-module",
+    "license": "GPL-2.0+",
+    "homepage": "https://www.drupal.org/project/trance",
+    "autoload": {
+        "psr-4": {
+            "Drupal\\AuditLog\\": "src/"
+        }
+    },
+    "require": { }
+}
