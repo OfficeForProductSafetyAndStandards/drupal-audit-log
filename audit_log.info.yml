@@ -1,4 +1,3 @@
-type: module
 name: 'Audit Log'
 description: 'Provides a framework with swappable storage for logging entity audit events.'
 package: 'Audit Log'
